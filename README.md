@@ -27,6 +27,7 @@ To understand and practice the core stages of the UX process by identifying user
 
 ## Output:
 
+[UIUX_EX_05.pdf](https://github.com/user-attachments/files/20539868/UIUX_EX_05.pdf)
 
 
 ## Result:
