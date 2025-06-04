@@ -27,6 +27,12 @@ To understand and practice the core stages of the UX process by identifying user
 
 ## Output:
 
+```
+Created By   : Niraunjana Gayathri G R
+Register No. : 212222230096
+
+```
+
 [UIUX_EX_05 (2).pdf](https://github.com/user-attachments/files/20539920/UIUX_EX_05.2.pdf)
 
 
